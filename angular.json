@@ -133,6 +133,11 @@
   },
   "defaultProject": "key-maker",
   "cli": {
-    "analytics": "057c08f9-0763-442a-b2f6-2f6505a8bd3a"
+    "analytics": "057c08f9-0763-442a-b2f6-2f6505a8bd3a",
+    "cache": {
+      "enabled": true,
+      "path": ".cache",
+      "environment": "all"
+    }
   }
 }
