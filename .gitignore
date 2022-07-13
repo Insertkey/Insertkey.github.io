@@ -47,3 +47,6 @@ Thumbs.db
 
 # cache
 .cache
+
+# yarn
+yarn.lock
